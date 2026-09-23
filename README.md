@@ -1,6 +1,6 @@
 # SLE-2: BFS vs DFS Maze Performance Profiling
 
-**Name:** Palak  
+**Name:** Palak Patil
 **PRN:** 25UAM092  
 **Course:** Introduction to Artificial Intelligence  
 **SLE:** SLE-2  
